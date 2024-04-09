@@ -1,0 +1,86 @@
+#svg_map{
+    position: relative;
+    top:82px;
+    left: 46px;
+    display: inline-block;
+}
+#title{
+    position: relative;
+    display: inline-block;
+    top:90px;
+    left: 487px;
+}
+.source{
+    position: relative;
+    top:10px;
+    left:251px;
+    font-size: 25px;
+}
+.destination{
+    position: relative;
+    top:10px;
+    left:251px;
+    font-size: 25px;
+}
+.nav{
+    position: relative;
+    background-color:black;
+    padding: 20px;
+}
+#logout{
+    font-family:'Times New Roman', Times, serif;
+    color: #0eece4;
+    border: 2px solid white;
+    padding: 5px;
+    border-radius: 13px;
+    background-color: black;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    position: relative;
+    display: inline-block;
+    left: 851px;
+}
+#home{
+    font-family:'Times New Roman', Times, serif;
+    color: #0eece4;
+    border: 2px solid white;
+    padding: 5px;
+    border-radius: 13px;
+    background-color: black;
+    font-size: 30px;
+    position: relative;
+    display: inline-block;
+    left: 610px;
+}
+#compute{
+    font-family:'Times New Roman', Times, serif;
+    border: none;
+    text-decoration: none;
+    background-color: white;
+    font-size: 30px;
+    position: relative;
+    display: inline-block;
+    top:10px;
+    left: 348px;
+}
+#refresh{
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+    background-color: white;
+    font-size: 30px;
+    position: relative;
+    display: inline-block;
+    top:10px;
+    left: 531px;
+}
+
+.h_1 {
+    position: relative;
+    display: inline-block;
+    top: -13px;
+    left: -764px;
+}
+
+.refresh:hover{
+    cursor:pointer;
+}
